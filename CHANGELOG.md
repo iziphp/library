@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
+- /
+
+## [1.0.0] - 2022-10-30
+
 - initial release
 
 <!-- Links -->
